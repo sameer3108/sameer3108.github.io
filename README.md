@@ -1,4 +1,4 @@
-# Sameer Mohamed - Portfolio Website
+# Portfolio Website
 
 ![Website Screenshot](./images/port.png)
 
@@ -9,9 +9,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
